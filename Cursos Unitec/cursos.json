@@ -1,0 +1,54 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nombre": "Robotica",
+            "precio": 80
+        },
+        {
+            "id": 2,
+            "nombre": "Cloud Computing",
+            "precio": 60
+        },
+        {
+            "id": 3,
+            "nombre": "Machine Learning",
+            "precio": 100
+        },
+        {
+            "id": 4,
+            "nombre": "Unreal Engine con C++",
+            "precio": 100
+        },
+        {
+            "id": 5,
+            "nombre": "IA Avanzada",
+            "precio": 60
+        },
+        {
+            "id": 6,
+            "nombre": "SRE",
+            "precio": 100
+        },
+        {
+            "id": 7,
+            "nombre": "SAP HANA y Mongo DB",
+            "precio": 300
+        },
+        {
+            "id": 8,
+            "nombre": "Ethical Hacking",
+            "precio": 400
+        },
+        {
+            "id": 9,
+            "nombre": "UI / UX",
+            "precio": 50
+        },
+        {
+            "id": 10,
+            "nombre" : "Desarrollador Web con VUE",
+            "precio": 150
+        }
+    ]
+}
